@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lobitohacker1211
+- 👋 Hi, I’m @lobito1121
 - I’m interested in to develoment my own game engine and ethical hacking
 - I’m currently learning C# and Python
-- I learned C++, Java, HTML - CSS, PHP and JavaScript
+- I learned C++, Java, HTML - CSS, JavaScript and little bit PHP
